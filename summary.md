@@ -6,5 +6,5 @@ Overview of making the scraper:
 
 Issues:
 -slower connections may have problems because times were manually set - just change all 5s to 10s in that case (should do the job)
--haven't added tags yet
+-tags added in incredibly slow fashion
 -doesn't sequentially add info to json file, does it all in one go -> bad
