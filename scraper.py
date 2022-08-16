@@ -16,8 +16,6 @@ options = Options()
 driver = webdriver.Firefox(options=options)
 driver.implicitly_wait(10) #timespan of 10 seconds for all actions
 
-#open file and prepare to write
-#file = open("output.json", "w", encoding="utf-8")
 #go to the website
 
 driver.get("https://summerofcode.withgoogle.com/programs/2022/organizations")
@@ -43,9 +41,13 @@ for i in range(0,4):
 		orgs_dicts.append(org_dict)
 		#print(orgs_dicts)
 	next_button.location_once_scrolled_into_view 
-	time.sleep(1)#weird but necessary to check this "field" (?) and wait a second (for the page to actually scroll) for the button to actually be scrolled into view
+	time.sleep(5)#weird but necessary to check this "field" (?) and wait a second (for the page to actually scroll) for the button to actually be scrolled into view
 	next_button.click()
-	
-#file.close()
+
+
+#scraping work should be done now - now to just dump orgs_dicts to a json file
+file = open("output.json", "w", encoding="utf-8")
+json.dump(orgs_dicts, file)
+file.close()
 temp_window.quit()
 driver.quit()
