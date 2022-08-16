@@ -1,1 +1,2222 @@
-[{"name": "sktime", "description": "A unified framework for ML with time series", "technologies": ["python", "github", "sphinx", "scikit-learn"]}, {"name": "GNU Octave", "description": "Free Your Numbers", "technologies": ["c++", "hg"]}, {"name": "The Julia Language", "description": "A fresh approach to technical computing", "technologies": ["machine learning", "julia", "data science", "gui", "models"]}, {"name": "52\u00b0North Spatial Information Research GmbH", "description": "Innovative ideas & technologies in geoinformatics", "technologies": ["javascript", "android", "java", "web services", "ogc standards"]}, {"name": "Orcasound", "description": "Humans & AI listening together to save the whales.", "technologies": ["python", "javascript", "raspberry pi", "elixir", "NextJs"]}, {"name": "Git", "description": "Fast,Scalable,Distributed revision control system", "technologies": ["shell script", "git", "c language"]}, {"name": "Monado", "description": "Monado, the free and open source XR platform", "technologies": ["opengl", "vulkan", "openxr", "Graphics", "XR"]}, {"name": "Ste||ar group", "description": "Shaping a Scalable Future", "technologies": ["c++", "hpc"]}, {"name": "OpenStreetMap", "description": "Create and distribute free geodata for the world", "technologies": ["python", "javascript", "java", "c++", "sql"]}, {"name": "DBpedia", "description": "Global and Unified Access to Knowledge Graphs.", "technologies": ["python", "javascript", "java", "scala", "rdf"]}, {"name": "Audacity", "description": "Free, open source, cross-platform audio software", "technologies": ["c++", "qt", "cmake", "wxwidgets", "VST"]}, {"name": "Dart", "description": "Dart is a client language for apps on any platform", "technologies": ["flutter", "dart"]}, {"name": "MBDyn", "description": "Open Source Multibody Simulation", "technologies": ["python", "c++"]}, {"name": "AFLplusplus", "description": "State of the art fuzzing for better security", "technologies": ["llvm", "rust", "fuzzing", "qemu"]}, {"name": "Eclipse Foundation", "description": "The Global Open Source Foundation", "technologies": ["java", "che", "deeplearning", "eclipsejavaide", "jakartaee"]}, {"name": "KDE Community", "description": "International team developing Open Source software", "technologies": ["c++", "qt", "qml", "data structures"]}, {"name": "CRIU", "description": "Chekpoint/Restore for Linux tasks and containers", "technologies": ["c", "python", "linux", "go"]}, {"name": "Unikraft", "description": "Unikraft is a fast and secure unikernel SDK", "technologies": ["c", "python", "xen", "kvm", "assembly language"]}, {"name": "OpenAFS", "description": "An opensource distributed filesystem product.", "technologies": ["c", "python", "git", "ansible", "filesystems"]}, {"name": "mlpack", "description": "a fast, flexible machine learning library", "technologies": ["c++", "C++ template metaprogramming"]}, {"name": "OpenAstronomy", "description": "Look at the Universe with the power of open source", "technologies": ["python", "javascript", "julia", "css"]}, {"name": "moja global", "description": "Collaboration for change", "technologies": ["python", "javascript", "c++", "docker", "Data-Science"]}, {"name": "The Honeynet Project", "description": "Honeypots and Threat Intelligence R&D", "technologies": ["python", "javascript", "django", "go", "docker"]}, {"name": "ArduPilot", "description": "World's most advanced autonomous vehicle software", "technologies": ["python", "lua", "c++", "pixhawk"]}, {"name": "PowerDNS", "description": "PowerDNS provides open source DNS software", "technologies": ["c++", "DNS"]}, {"name": "LibreCube Initiative", "description": "Open Source Space and Earth Exploration", "technologies": ["python", "mongodb", "rest", "micropython", "zmq"]}, {"name": "Ruby", "description": "Ruby is an object-oriented programming language", "technologies": ["ruby on rails", "ruby", "rubygems", "bundler"]}, {"name": "QEMU", "description": "Open source machine emulator and virtualizer", "technologies": ["c", "python", "linux", "rust"]}, {"name": "MetaCall", "description": "Simplifying the embedding of programming languages", "technologies": ["python", "c++", "rust", "nodejs", "docker"]}, {"name": "BRL-CAD", "description": "3D CAD & other computer-aided tech (CAx)", "technologies": ["python", "c/c++", "opengl", "opencl", "scripting"]}, {"name": "Intel Video and Audio for Linux", "description": "We enable Linux Audio and Video for Intel", "technologies": ["c/c++", "opengl", "Codec", "Media", "Imaging"]}, {"name": "Liquid Galaxy project", "description": "We code immersive and interactive aps with G Earth", "technologies": ["python", "linux", "android", "flutter", "Google Earth"]}, {"name": "PEcAn Project", "description": "Develop and promote tools for ecosystem modeling", "technologies": ["r", "docker", "api", "geospatial"]}, {"name": "Micro Electronics Research Lab - UITU", "description": "Accelerating Engineering Innovation", "technologies": ["RISCV", "Processor", "Hardware", "systemonchip", "memory"]}, {"name": "Submitty", "description": "Homework Autograding and Course Management Tools", "technologies": ["python", "postgresql", "javascript", "c++", "php"]}, {"name": "Matrix.org", "description": "Open, secure, decentralised communication", "technologies": ["python", "javascript", "rust"]}, {"name": "JabRef e.V.", "description": "Open Source bibliography manager", "technologies": ["java", "javafx", "bibtex"]}, {"name": "TianoCore", "description": "Modern, open source, UEFI BIOS firmware", "technologies": ["c", "python", "rust", "golang", "uefi"]}, {"name": "CGAL Project", "description": "C++ library of computational geometry", "technologies": ["c++", "qt"]}, {"name": "Chromium", "description": "Fast, seamless, safe, and reliable web for all", "technologies": ["python", "javascript", "java", "c++", "git"]}, {"name": "Software Heritage", "description": "The universal source code archive", "technologies": ["python", "postgresql", "javascript", "django", "git"]}, {"name": "X.Org Foundation", "description": "X Window System and related projects (Mesa, DRI, Wayland, etc.)", "technologies": ["opengl", "vulkan", "x11", "wayland", "DRM"]}, {"name": "Center for Translational Data Science", "description": "Develop translational data science.", "technologies": ["python", "aws"]}, {"name": "SymPy", "description": "SymPy is a Python library for symbolic mathematics", "technologies": ["python", "numpy", "jupyter"]}, {"name": "CHAOSS", "description": "Community Health Analytics Open Source Software", "technologies": ["python", "postgresql", "javascript", "machine learning", "airflow"]}, {"name": "Xfce", "description": "Lightweight and flexible linux desktop environment", "technologies": ["c", "gtk"]}, {"name": "National Resource for Network Biology (NRNB)", "description": "Developing open source tools for network biology", "technologies": ["python", "javascript", "java", "xml", "r"]}, {"name": "Rizin", "description": "Rizin reverse engineering framework and toolset", "technologies": ["c", "python", "c++", "qt"]}, {"name": "Inkscape", "description": "Draw freely!", "technologies": ["python", "c++", "svg"]}, {"name": "Forschungszentrum J\u00fclich", "description": "Shaping change: open source for Big Science", "technologies": ["python", "mpi", "high performance computing", "pytorch", "gpu"]}, {"name": "Electron", "description": "Cross-platform desktop apps with web technologies", "technologies": ["javascript", "node.js", "c++", "typescript", "Chromium"]}, {"name": "omegaUp", "description": "Open CS Education as a catalyst for social change", "technologies": ["python", "mysql", "php", "typescript", "vue.js"]}, {"name": "Keptn", "description": "Event-driven orchestration of cloud-native apps", "technologies": ["golang", "kubernetes", "angular", "Helm"]}, {"name": "Neutralinojs", "description": "Lightweight cross-platform desktop app framework", "technologies": ["c", "javascript", "node.js", "c++", "typescript"]}, {"name": "Open Technologies Alliance - GFOSS", "description": "Promote Open Standards and Open Source", "technologies": ["javascript", "c/c++", "nodejs", "python 3", "Machine Learning (ML)"]}, {"name": "ScummVM", "description": "Adventure and RPG preservation project", "technologies": ["opengl", "lua", "c++", "assembly", "sdl"]}, {"name": "MariaDB", "description": "The fastest growing Open Source Database", "technologies": ["python", "javascript", "c/c++", "perl", "databases"]}, {"name": "Open Robotics", "description": "Development of open source robotics", "technologies": ["ros", "gazebo", "ignition", "Open-RMF"]}, {"name": "SCoRe Lab", "description": "SCoRe Lab develops FOSS softwares for everyone!!!", "technologies": ["python", "java", "go", "nodejs", "reactjs"]}, {"name": "CNCF", "description": "Building sustainable ecosystems for cloud native", "technologies": ["prometheus", "kubernetes", "OpenTelemetry", "envoy"]}, {"name": "libssh", "description": "The SSH library", "technologies": ["c", "ssh"]}, {"name": "Apache Software Foundation", "description": "Open source software to the public free of charge", "technologies": ["c", "java", "c++"]}, {"name": "Cuneiform Digital Library Initiative (CDLI)", "description": "Curating humanity's oldest written sources", "technologies": ["mysql", "javascript", "docker", "php", "SCSS"]}, {"name": "Oppia Foundation", "description": "Free platform for interactive, tutor-like lessons", "technologies": ["python", "android", "google app engine", "angular", "typescript"]}, {"name": "Our World In Data", "description": "Explaining the world's biggest problems with data", "technologies": ["python", "mysql", "d3", "typescript", "pandas"]}, {"name": "CERN-HSF", "description": "Umbrella for Particle Physics-related projects", "technologies": ["python", "c/c++", "data analysis", "artificial intelligence", "container orchestration"]}, {"name": "AOSSIE", "description": "Australian Umbrella Org for Open-Source Projects", "technologies": ["python", "javascript", "machine learning", "scala", "Blockchain"]}, {"name": "Wellcome Sanger Tree of Life", "description": "Genome analysis across the whole tree of life", "technologies": ["python", "javascript", "rust", "nextflow"]}, {"name": "CHIPS Alliance", "description": "Open source IP, tools & standards for ASIC/FPGA", "technologies": ["fpga", "chisel", "risc-v", "systemverilog", "ASIC"]}, {"name": "checkstyle", "description": "Helps to adheres of Java coding standard", "technologies": ["java", "antlr"]}, {"name": "Society for Arts and Technology (SAT)", "description": "Create teleimmersive multisensorial experiences.", "technologies": ["python", "javascript", "opengl", "c++", "supercollider"]}, {"name": "Jenkins", "description": "Jenkins, build great things at any scale", "technologies": ["javascript", "java", "go", "docker", "kubernetes"]}, {"name": "JdeRobot", "description": "Toolkit for developing Robotics applications", "technologies": ["python", "ros", "gazebo", "opencv", "tensorflow"]}, {"name": "The Tor Project", "description": "Defend yourself against tracking and surveillance.", "technologies": ["c", "python", "rust"]}, {"name": "coreboot", "description": "Fast, secure and flexible BIOS firmware", "technologies": ["c", "assembly", "arm", "x86"]}, {"name": "RADAR-base", "description": "Improve people's quality of life using patient generated data", "technologies": ["java", "kotlin", "docker", "angular", "kafka"]}, {"name": "IOOS", "description": "Our eyes on the ocean, coasts, and Great Lakes", "technologies": ["python", "ocean science"]}, {"name": "Joplin", "description": "The open source note taking application", "technologies": ["javascript", "react", "typescript", "electron", "React-Native"]}, {"name": "Genome Assembly and Annotation", "description": "Providing freely accessible genomic data", "technologies": ["python", "mysql", "docker", "pytorch", "nextflow"]}, {"name": "LEAP Encryption Access Project", "description": "Privacy should not be a priviledge", "technologies": ["java", "golang", "qt5", "docker", "ansible"]}, {"name": "FreeType", "description": "FreeType is a software library to render fonts.", "technologies": ["c", "autotools", "meson"]}, {"name": "ReactOS Foundation", "description": "Open your windows to freedom!", "technologies": ["c", "c++", "win32", "nt"]}, {"name": "Joomla!", "description": "The flexible platform empowering website creators.", "technologies": ["mysql", "javascript", "html", "php", "css"]}, {"name": "The ns-3 Network Simulator Project", "description": "ns-3 is a simulation tool for computer networks.", "technologies": ["python", "django", "c++"]}, {"name": "Open3D team", "description": "A Modern Library for 3D Data Processing", "technologies": ["python", "c++", "cuda", "tensorflow", "pytorch"]}, {"name": "Learning Equality", "description": "Equity in education to transform lives", "technologies": ["python", "javascript", "django", "vue.js"]}, {"name": "The ENIGMA Team", "description": "A free rapid game development environment.", "technologies": ["opengl", "c++", "qt5"]}, {"name": "TensorFlow", "description": "TensorFlow is a ML framework for everyone.", "technologies": ["machine learning", "tensorflow", "ai", "Jax", "keras"]}, {"name": "MIT App Inventor", "description": "Anyone can build apps with global impact.", "technologies": ["javascript", "java", "gwt"]}, {"name": "MoveIt", "description": "Moving robots into the future", "technologies": ["ros", "c++"]}, {"name": "GNU Compiler Collection (GCC)", "description": "GNU compilers", "technologies": ["c/c++", "gnu make", "gnu autotools"]}, {"name": "RTEMS Project", "description": "A real-time operating system for Earth & Space", "technologies": ["python", "c/c++", "assembly", "posix"]}, {"name": "AnkiDroid", "description": "AnkiDroid makes remembering things easy", "technologies": ["android", "java", "rust", "kotlin", "mobile"]}, {"name": "Open Genome Informatics", "description": "Open access genomics and bioinformatics projects", "technologies": ["python", "mysql", "react", "r-project", "graph"]}, {"name": "Mathesar", "description": "Webapp providing a UX-first interface to databases", "technologies": ["python", "postgresql", "javascript", "django", "svelte"]}, {"name": "Sugar Labs", "description": "Learning software for children", "technologies": ["python", "gtk", "typescript", "javascipt"]}, {"name": "Open Food Facts", "description": "Better food choices for your health & the planet", "technologies": ["python", "machine learning", "perl", "tensorflow", "flutter"]}, {"name": "MZmine", "description": "Open-source software for mass spectrometry", "technologies": ["java", "javafx"]}, {"name": "Haskell.org", "description": "Purely functional programming language", "technologies": ["haskell", "ghc"]}, {"name": "Global Alliance for Genomics and Health", "description": "We develop genomics tools to benefit human health", "technologies": ["python", "postgresql", "java", "react", "rust"]}, {"name": "GNU Image Manipulation Program", "description": "GIMP is a cross-platform image editor", "technologies": ["c", "GEGL"]}, {"name": "Wagtail", "description": "The powerful Python CMS for modern websites", "technologies": ["python", "javascript", "django"]}, {"name": "TARDIS RT Collaboration", "description": "Exploring supernovae made easy", "technologies": ["python", "numba", "numpy", "jupyter", "pandas"]}, {"name": "Internet Health Report", "description": "Monitoring the Internet", "technologies": ["python", "javascript", "apache kafka", "VueJS"]}, {"name": "Free and Open Source Silicon Foundation", "description": "Working together for Free and Open Source Silicon", "technologies": ["verilog", "risc-v", "compiler", "web development"]}, {"name": "Organic Maps", "description": "Offline maps app for tourists, cyclers & hikers", "technologies": ["android", "java", "c++", "ios", "OpenStreetMap"]}, {"name": "The NetBSD Foundation", "description": "Of course it runs NetBSD", "technologies": ["c", "shell script", "make", "unix", "bsd"]}, {"name": "Responsible AI and Human Centred Technology", "description": "Human-centered and responsible AI for all", "technologies": ["python", "javascript", "Technical writing"]}, {"name": "Blender Foundation", "description": "The Freedom to Create", "technologies": ["c", "python", "opengl", "c++", "vulkan"]}, {"name": "Machine Learning for Science (ML4SCI)", "description": "Machine learning applications in science", "technologies": ["python", "machine learning", "c++", "data analysis", "artificial intelligence"]}, {"name": "VideoLAN", "description": "Open source believers rocking the multimedia world", "technologies": ["c", "c++", "qt", "assembly", "video"]}, {"name": "PostgreSQL", "description": "The Most Advanced Open Source Relational Database", "technologies": ["c", "python", "postgresql", "javascript", "sql"]}, {"name": "strace", "description": "Linux syscall tracer", "technologies": ["c", "shell", "make", "autotools", "gawk"]}, {"name": "SageMath", "description": "Open-source mathematics software system", "technologies": ["python", "cython"]}, {"name": "Jitsi", "description": "State-of-the-art video conferencing", "technologies": ["javascript", "java", "react", "webrtc", "react native"]}, {"name": "OpenVINO Toolkit", "description": "Make AI inference faster and easier to deploy!", "technologies": ["python", "c++", "x86"]}, {"name": "Ceph", "description": "The Future of Storage", "technologies": ["python", "javascript", "c++"]}, {"name": "CircuitVerse.org", "description": "Build and learn logic circuits in the cloud!", "technologies": ["javascript", "rails", "canvas"]}, {"name": "JBoss Community", "description": "Community of projects around JBoss Middleware", "technologies": ["java", "rust", "golang"]}, {"name": "Kodi", "description": "The ultimate entertainment center", "technologies": ["python", "opengl", "c++", "ffmpeg", "sqlite"]}, {"name": "OpenCV", "description": "++ beneficial uses of computer vision in society", "technologies": ["python", "c++", "deep learning", "ai"]}, {"name": "FFmpeg", "description": "Record, convert and stream audio & video", "technologies": ["c", "git", "asm"]}, {"name": "Flashrom", "description": "Reading, writing, verifying, erasing flash chips", "technologies": ["c", "x86", "bios", "rom", "spi"]}, {"name": "XMPP Standards Foundation", "description": "XSF develops an open-standard messaging protocol", "technologies": ["javascript", "java", "go", "vala", "xmpp"]}, {"name": "Django Software Foundation", "description": "Web framework for perfectionists with deadlines", "technologies": ["python", "django"]}, {"name": "MDAnalysis", "description": "Analysis of molecular simulations data with Python", "technologies": ["python", "cython", "c/c++"]}, {"name": "OWASP Foundation", "description": "No more insecure software.", "technologies": ["python", "javascript", "java", "ZAP", "Juice Shop"]}, {"name": "AboutCode", "description": "Scan code for origin, license and vulnerabilities", "technologies": ["python", "javascript", "Django+PostgreSQL", "C/Rust/Go"]}, {"name": "Haiku", "description": "Operating system that targets personal computing.", "technologies": ["c++", "posix", "unix"]}, {"name": "Purr Data", "description": "Realtime Audio/Visual Programming Environment", "technologies": ["c", "javascript", "html5", "Emscripten"]}, {"name": "Semi Technologies", "description": "The ML-first vector search engine", "technologies": ["python", "machine learning", "golang", "vectors", "natural language processing"]}, {"name": "OSGeo (Open Source Geospatial Foundation)", "description": "The Open Source Geospatial Foundation", "technologies": ["c", "python", "javascript", "java", "c++"]}, {"name": "Public Lab", "description": "Tools for communities to measure pollution", "technologies": ["javascript", "ruby on rails"]}, {"name": "Swift", "description": "Fast, safe, and expressive programming language", "technologies": ["c++", "cmake", "swift"]}, {"name": "XWiki", "description": "The Advanced Open Source Enterprise Wiki", "technologies": ["javascript", "java", "html5", "css3", "velocity"]}, {"name": "GitLab", "description": "Everyone can contribute", "technologies": ["javascript", "ruby on rails", "go", "ruby", "vue"]}, {"name": "International Catrobat Association", "description": "Free visual coding apps for computational thinking", "technologies": ["javascript", "android", "swift", "kotlin", "php"]}, {"name": "Center for Research in Open Source Software (CROSS)", "description": "Amplifying Research Imapct through Open Source", "technologies": ["python", "c/c++", "verilog", "apache arrow", "matlab/simulink"]}, {"name": "LLVM Compiler Infrastructure", "description": "LLVM Compiler Infrastructure", "technologies": ["llvm", "c++", "clang", "mlir"]}, {"name": "GNU Radio", "description": "The free & open software radio ecosystem", "technologies": ["python", "c++", "qt", "simd"]}, {"name": "Metasploit", "description": "World\u2019s most used penetration testing framework", "technologies": ["c", "python", "postgresql", "ruby", "assembly"]}, {"name": "Red Hen Lab", "description": "Research on Multimodal Communication", "technologies": ["python", "machine learning", "computer vision", "nlp", "data science"]}, {"name": "Mixxx", "description": "DJ Mixing App With Powerful Features For All DJs", "technologies": ["javascript", "c++", "qt"]}, {"name": "Jenkins X", "description": "Accelerate Your Continuous Delivery on Kubernetes", "technologies": ["golang", "kubernetes", "gitops"]}, {"name": "Homebrew", "description": "The Missing Package Manager for macOS (or Linux)", "technologies": ["linux", "ruby", "macos"]}, {"name": "RoboComp", "description": "Open-source framework to develop robot components", "technologies": ["python", "opencv", "c++", "qt", "pytorch"]}, {"name": "Processing Foundation", "description": "To empower all people to learn to program", "technologies": ["python", "javascript", "android", "java", "opengl"]}, {"name": "rocket.chat", "description": "Open source team chat and communications platform", "technologies": ["javascript", "raspberry pi", "typescript", "node", "meteorJS"]}, {"name": "Plone Foundation", "description": "Python-based CMS, with React front-end.", "technologies": ["python", "javascript", "react"]}, {"name": "The Linux Foundation", "description": "Non-profit consortium fostering growth of Linux", "technologies": ["c", "linux", "c++", "cups", "ipp"]}, {"name": "OpenMRS", "description": "Write Code, Save Lives.", "technologies": ["mysql", "javascript", "java", "fhir", "Cypress"]}, {"name": "The JPF team", "description": "JPF is a special JVM for software verification", "technologies": ["android", "java", "distributed systems", "jvm"]}, {"name": "Robolectric", "description": "Fast unit testing runtime for Android", "technologies": ["android", "java", "jvm", "asm"]}, {"name": "Mayor's Office of New Urban Mechanics", "description": "Exploring new approaches to civic life.", "technologies": ["python", "javascript", "ruby", "tensorflow"]}, {"name": "FRRouting", "description": "Routing suite including BGP, IS-IS, LDP, OSPF, PIM", "technologies": ["c", "linux", "networking", "linux kernel", "routing"]}, {"name": "Open Bioinformatics Foundation (OBF)", "description": "Open Source & Open Science in biological research", "technologies": ["python", "javascript", "c++", "html/css", "Git/GitHub"]}, {"name": "Python Software Foundation", "description": "A programming language used for science & more", "technologies": ["python", "javascript", "sqlite"]}, {"name": "Performance Co-Pilot", "description": "System performance analysis", "technologies": ["c", "grafana", "redis", "htop", "sysstat"]}, {"name": "The Palisadoes Foundation", "description": "Transforming non-profit organizations in the cloud", "technologies": ["mongodb", "node.js", "flutter", "graphql", "typescript"]}, {"name": "Department of Biomedical Informatics, Emory University", "description": "Biomedical research to advance healthcare", "technologies": ["python", "javascript", "java", "workflows", "dicom"]}, {"name": "Synfig", "description": "Open-source 2D animation software", "technologies": ["python", "c++", "gtk", "gtkmm"]}, {"name": "Fortran-lang", "description": "High-performance parallel programming language", "technologies": ["python", "c++", "fortran"]}, {"name": "GNSS-SDR", "description": "An open source GNSS software-defined receiver", "technologies": ["c", "c++", "sdr"]}, {"name": "LibreHealth", "description": "Healthcare for Humanity", "technologies": ["python", "javascript", "android", "java", "dart/flutter"]}, {"name": "Drupal Association", "description": "The best open source digital experience platform", "technologies": ["mysql", "javascript", "html", "php", "symfony"]}, {"name": "GeomScale", "description": "Scalable geometric and statistical software", "technologies": ["python", "c++", "r", "jupyter", "github-actions"]}, {"name": "cBioPortal for Cancer Genomics", "description": "Aid discovery in complex cancer genomics data", "technologies": ["mysql", "javascript", "java", "react", "typescript"]}, {"name": "INCF", "description": "An open & FAIR neuroscience standards organization", "technologies": ["python", "javascript", "java", "c++", "gpu"]}, {"name": "Casbin", "description": "Authorization library that supports RBAC and ABAC", "technologies": ["javascript", "java", "go", "OIDC", "OAuth"]}, {"name": "GRAME", "description": "Domain specific language for audio", "technologies": ["c", "python", "javascript", "c++", "typescript"]}, {"name": "freifunk", "description": "Free and open wireless networks", "technologies": ["c", "python", "javascript", "openwrt", "gnu/linux"]}, {"name": "syslog-ng", "description": "Enhanced log daemon, w/ wide range of I/O methods", "technologies": ["c", "python", "sql", "elasticsearch", "kafka"]}, {"name": "The FreeBSD Project", "description": "FreeBSD: An OS for servers to embedded systems", "technologies": ["c", "llvm", "assembly", "make", "POSIX shell"]}, {"name": "Godot Engine", "description": "Multi-platform 2D and 3D game engine", "technologies": ["opengl", "c++", "vulkan", "webassembly"]}, {"name": "MuseScore", "description": "The World\u2019s Most Popular Music Notation Software", "technologies": ["c++", "qt", "qml", "cmake"]}, {"name": "OpenWISP", "description": "The Hackable Network Management System", "technologies": ["python", "javascript", "django", "lua", "openwrt"]}, {"name": "Scala Center", "description": "Guide and support the Scala community", "technologies": ["scala", "scala.js", "scala native"]}, {"name": "NumFOCUS", "description": "NumFOCUS promotes open source scientific software.", "technologies": ["python", "c++", "r", "julia"]}, {"name": "The Mifos Initiative", "description": "End Poverty One Line of Code at a Time", "technologies": ["android", "java", "kotlin", "spring", "angular"]}, {"name": "Polypheny", "description": "The distributed and self-adaptive polystore", "technologies": ["javascript", "java", "sql", "angular"]}, {"name": "R project for statistical computing", "description": "R software for statistical computing & graphics", "technologies": ["c", "javascript", "c++", "r-project", "fortran"]}, {"name": "libcamera", "description": "Provide an open source camera stack for linux", "technologies": ["c/c++", "linux kernel", "qt5", "gstreamer", "v4l2"]}, {"name": "LibreOffice", "description": "LibreOffice is a free and open source office suite", "technologies": ["python", "java", "c++"]}, {"name": "Zulip", "description": "Modern team chat app designed for efficiency.", "technologies": ["python", "django", "typescript", "react native", "electron"]}, {"name": "FOSSology", "description": "Open Source License Compliance by OSS", "technologies": ["python", "postgresql", "c/c++", "php", "reactjs"]}, {"name": "SeaQL", "description": "Building data intensive applications in Rust", "technologies": ["mysql", "postgresql", "rust", "sql", "sqlite"]}, {"name": "libvirt", "description": "Virtualization abstraction library", "technologies": ["kvm", "hypervisor", "qemu", "lxc"]}, {"name": "BeagleBoard.org", "description": "Open hardware computing for educators and makers", "technologies": ["linux", "fpga", "risc-v", "dsp", "Zephyr RTOS"]}, {"name": "Kart Project", "description": "Distributed version-control for geospatial data", "technologies": ["python", "c++", "git", "gis"]}, {"name": "SPDX", "description": "An open ISO standard for SBOMs", "technologies": ["python", "java", "json", "go", "rdf"]}, {"name": "Debian", "description": "The Universal Operating System", "technologies": ["c", "python", "java", "ruby", "perl"]}, {"name": "MetaBrainz Foundation Inc", "description": "Open music / book metadata, music recommendations", "technologies": ["python", "react", "perl", "postgres", "spark"]}, {"name": "GNOME Foundation", "description": "A diverse and sustainable free software desktop.", "technologies": ["c", "linux", "rust", "gtk", "Flatpak"]}, {"name": "CCExtractor Development", "description": "TV, rust, flutter, linux and C.", "technologies": ["c", "linux", "rust", "flutter"]}, {"name": "Open Chemistry", "description": "Advancing Open Source & Open Science for Chemistry", "technologies": ["python", "javascript", "opengl", "c++", "c++14"]}, {"name": "Wikimedia Foundation", "description": "Brings free educational content to the world", "technologies": ["python", "javascript", "html", "php", "css"]}, {"name": "Gentoo Foundation", "description": "A flexible, source-based Linux distribution.", "technologies": ["c", "python", "shell", "linux", "bash"]}, {"name": "openSUSE Project", "description": "openSUSE is the makers' choice for sysadmins, developers and desktop", "technologies": ["python", "linux", "rust", "Testing", "configuration management"]}]
+[
+ {
+  "name": "sktime",
+  "description": "A unified framework for ML with time series",
+  "technologies": [
+   "python",
+   "github",
+   "sphinx",
+   "scikit-learn"
+  ],
+  "tags": []
+ },
+ {
+  "name": "GNU Octave",
+  "description": "Free Your Numbers",
+  "technologies": [
+   "c++",
+   "hg"
+  ],
+  "tags": []
+ },
+ {
+  "name": "The Julia Language",
+  "description": "A fresh approach to technical computing",
+  "technologies": [
+   "machine learning",
+   "julia",
+   "data science",
+   "gui",
+   "models"
+  ],
+  "tags": []
+ },
+ {
+  "name": "52\u00b0North Spatial Information Research GmbH",
+  "description": "Innovative ideas & technologies in geoinformatics",
+  "technologies": [
+   "javascript",
+   "android",
+   "java",
+   "web services",
+   "ogc standards"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Orcasound",
+  "description": "Humans & AI listening together to save the whales.",
+  "technologies": [
+   "python",
+   "javascript",
+   "raspberry pi",
+   "elixir",
+   "NextJs"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Git",
+  "description": "Fast,Scalable,Distributed revision control system",
+  "technologies": [
+   "shell script",
+   "git",
+   "c language"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Monado",
+  "description": "Monado, the free and open source XR platform",
+  "technologies": [
+   "opengl",
+   "vulkan",
+   "openxr",
+   "Graphics",
+   "XR"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Ste||ar group",
+  "description": "Shaping a Scalable Future",
+  "technologies": [
+   "c++",
+   "hpc"
+  ],
+  "tags": []
+ },
+ {
+  "name": "OpenStreetMap",
+  "description": "Create and distribute free geodata for the world",
+  "technologies": [
+   "python",
+   "javascript",
+   "java",
+   "c++",
+   "sql"
+  ],
+  "tags": []
+ },
+ {
+  "name": "DBpedia",
+  "description": "Global and Unified Access to Knowledge Graphs.",
+  "technologies": [
+   "python",
+   "javascript",
+   "java",
+   "scala",
+   "rdf"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Audacity",
+  "description": "Free, open source, cross-platform audio software",
+  "technologies": [
+   "c++",
+   "qt",
+   "cmake",
+   "wxwidgets",
+   "VST"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Dart",
+  "description": "Dart is a client language for apps on any platform",
+  "technologies": [
+   "flutter",
+   "dart"
+  ],
+  "tags": []
+ },
+ {
+  "name": "MBDyn",
+  "description": "Open Source Multibody Simulation",
+  "technologies": [
+   "python",
+   "c++"
+  ],
+  "tags": []
+ },
+ {
+  "name": "AFLplusplus",
+  "description": "State of the art fuzzing for better security",
+  "technologies": [
+   "llvm",
+   "rust",
+   "fuzzing",
+   "qemu"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Eclipse Foundation",
+  "description": "The Global Open Source Foundation",
+  "technologies": [
+   "java",
+   "che",
+   "deeplearning",
+   "eclipsejavaide",
+   "jakartaee"
+  ],
+  "tags": []
+ },
+ {
+  "name": "KDE Community",
+  "description": "International team developing Open Source software",
+  "technologies": [
+   "c++",
+   "qt",
+   "qml",
+   "data structures"
+  ],
+  "tags": []
+ },
+ {
+  "name": "CRIU",
+  "description": "Chekpoint/Restore for Linux tasks and containers",
+  "technologies": [
+   "c",
+   "python",
+   "linux",
+   "go"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Unikraft",
+  "description": "Unikraft is a fast and secure unikernel SDK",
+  "technologies": [
+   "c",
+   "python",
+   "xen",
+   "kvm",
+   "assembly language"
+  ],
+  "tags": []
+ },
+ {
+  "name": "OpenAFS",
+  "description": "An opensource distributed filesystem product.",
+  "technologies": [
+   "c",
+   "python",
+   "git",
+   "ansible",
+   "filesystems"
+  ],
+  "tags": []
+ },
+ {
+  "name": "mlpack",
+  "description": "a fast, flexible machine learning library",
+  "technologies": [
+   "c++",
+   "C++ template metaprogramming"
+  ],
+  "tags": []
+ },
+ {
+  "name": "OpenAstronomy",
+  "description": "Look at the Universe with the power of open source",
+  "technologies": [
+   "python",
+   "javascript",
+   "julia",
+   "css"
+  ],
+  "tags": []
+ },
+ {
+  "name": "moja global",
+  "description": "Collaboration for change",
+  "technologies": [
+   "python",
+   "javascript",
+   "c++",
+   "docker",
+   "Data-Science"
+  ],
+  "tags": []
+ },
+ {
+  "name": "The Honeynet Project",
+  "description": "Honeypots and Threat Intelligence R&D",
+  "technologies": [
+   "python",
+   "javascript",
+   "django",
+   "go",
+   "docker"
+  ],
+  "tags": []
+ },
+ {
+  "name": "ArduPilot",
+  "description": "World's most advanced autonomous vehicle software",
+  "technologies": [
+   "python",
+   "lua",
+   "c++",
+   "pixhawk"
+  ],
+  "tags": []
+ },
+ {
+  "name": "PowerDNS",
+  "description": "PowerDNS provides open source DNS software",
+  "technologies": [
+   "c++",
+   "DNS"
+  ],
+  "tags": []
+ },
+ {
+  "name": "LibreCube Initiative",
+  "description": "Open Source Space and Earth Exploration",
+  "technologies": [
+   "python",
+   "mongodb",
+   "rest",
+   "micropython",
+   "zmq"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Ruby",
+  "description": "Ruby is an object-oriented programming language",
+  "technologies": [
+   "ruby on rails",
+   "ruby",
+   "rubygems",
+   "bundler"
+  ],
+  "tags": []
+ },
+ {
+  "name": "QEMU",
+  "description": "Open source machine emulator and virtualizer",
+  "technologies": [
+   "c",
+   "python",
+   "linux",
+   "rust"
+  ],
+  "tags": []
+ },
+ {
+  "name": "MetaCall",
+  "description": "Simplifying the embedding of programming languages",
+  "technologies": [
+   "python",
+   "c++",
+   "rust",
+   "nodejs",
+   "docker"
+  ],
+  "tags": []
+ },
+ {
+  "name": "BRL-CAD",
+  "description": "3D CAD & other computer-aided tech (CAx)",
+  "technologies": [
+   "python",
+   "c/c++",
+   "opengl",
+   "opencl",
+   "scripting"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Intel Video and Audio for Linux",
+  "description": "We enable Linux Audio and Video for Intel",
+  "technologies": [
+   "c/c++",
+   "opengl",
+   "Codec",
+   "Media",
+   "Imaging"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Liquid Galaxy project",
+  "description": "We code immersive and interactive aps with G Earth",
+  "technologies": [
+   "python",
+   "linux",
+   "android",
+   "flutter",
+   "Google Earth"
+  ],
+  "tags": []
+ },
+ {
+  "name": "PEcAn Project",
+  "description": "Develop and promote tools for ecosystem modeling",
+  "technologies": [
+   "r",
+   "docker",
+   "api",
+   "geospatial"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Micro Electronics Research Lab - UITU",
+  "description": "Accelerating Engineering Innovation",
+  "technologies": [
+   "RISCV",
+   "Processor",
+   "Hardware",
+   "systemonchip",
+   "memory"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Submitty",
+  "description": "Homework Autograding and Course Management Tools",
+  "technologies": [
+   "python",
+   "postgresql",
+   "javascript",
+   "c++",
+   "php"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Matrix.org",
+  "description": "Open, secure, decentralised communication",
+  "technologies": [
+   "python",
+   "javascript",
+   "rust"
+  ],
+  "tags": []
+ },
+ {
+  "name": "JabRef e.V.",
+  "description": "Open Source bibliography manager",
+  "technologies": [
+   "java",
+   "javafx",
+   "bibtex"
+  ],
+  "tags": []
+ },
+ {
+  "name": "TianoCore",
+  "description": "Modern, open source, UEFI BIOS firmware",
+  "technologies": [
+   "c",
+   "python",
+   "rust",
+   "golang",
+   "uefi"
+  ],
+  "tags": []
+ },
+ {
+  "name": "CGAL Project",
+  "description": "C++ library of computational geometry",
+  "technologies": [
+   "c++",
+   "qt"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Chromium",
+  "description": "Fast, seamless, safe, and reliable web for all",
+  "technologies": [
+   "python",
+   "javascript",
+   "java",
+   "c++",
+   "git"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Software Heritage",
+  "description": "The universal source code archive",
+  "technologies": [
+   "python",
+   "postgresql",
+   "javascript",
+   "django",
+   "git"
+  ],
+  "tags": []
+ },
+ {
+  "name": "X.Org Foundation",
+  "description": "X Window System and related projects (Mesa, DRI, Wayland, etc.)",
+  "technologies": [
+   "opengl",
+   "vulkan",
+   "x11",
+   "wayland",
+   "DRM"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Center for Translational Data Science",
+  "description": "Develop translational data science.",
+  "technologies": [
+   "python",
+   "aws"
+  ],
+  "tags": []
+ },
+ {
+  "name": "SymPy",
+  "description": "SymPy is a Python library for symbolic mathematics",
+  "technologies": [
+   "python",
+   "numpy",
+   "jupyter"
+  ],
+  "tags": []
+ },
+ {
+  "name": "CHAOSS",
+  "description": "Community Health Analytics Open Source Software",
+  "technologies": [
+   "python",
+   "postgresql",
+   "javascript",
+   "machine learning",
+   "airflow"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Xfce",
+  "description": "Lightweight and flexible linux desktop environment",
+  "technologies": [
+   "c",
+   "gtk"
+  ],
+  "tags": []
+ },
+ {
+  "name": "National Resource for Network Biology (NRNB)",
+  "description": "Developing open source tools for network biology",
+  "technologies": [
+   "python",
+   "javascript",
+   "java",
+   "xml",
+   "r"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Rizin",
+  "description": "Rizin reverse engineering framework and toolset",
+  "technologies": [
+   "c",
+   "python",
+   "c++",
+   "qt"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Inkscape",
+  "description": "Draw freely!",
+  "technologies": [
+   "python",
+   "c++",
+   "svg"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Forschungszentrum J\u00fclich",
+  "description": "Shaping change: open source for Big Science",
+  "technologies": [
+   "python",
+   "mpi",
+   "high performance computing",
+   "pytorch",
+   "gpu"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Electron",
+  "description": "Cross-platform desktop apps with web technologies",
+  "technologies": [
+   "javascript",
+   "node.js",
+   "c++",
+   "typescript",
+   "Chromium"
+  ],
+  "tags": []
+ },
+ {
+  "name": "omegaUp",
+  "description": "Open CS Education as a catalyst for social change",
+  "technologies": [
+   "python",
+   "mysql",
+   "php",
+   "typescript",
+   "vue.js"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Keptn",
+  "description": "Event-driven orchestration of cloud-native apps",
+  "technologies": [
+   "golang",
+   "kubernetes",
+   "angular",
+   "Helm"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Neutralinojs",
+  "description": "Lightweight cross-platform desktop app framework",
+  "technologies": [
+   "c",
+   "javascript",
+   "node.js",
+   "c++",
+   "typescript"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Open Technologies Alliance - GFOSS",
+  "description": "Promote Open Standards and Open Source",
+  "technologies": [
+   "javascript",
+   "c/c++",
+   "nodejs",
+   "python 3",
+   "Machine Learning (ML)"
+  ],
+  "tags": []
+ },
+ {
+  "name": "ScummVM",
+  "description": "Adventure and RPG preservation project",
+  "technologies": [
+   "opengl",
+   "lua",
+   "c++",
+   "assembly",
+   "sdl"
+  ],
+  "tags": []
+ },
+ {
+  "name": "MariaDB",
+  "description": "The fastest growing Open Source Database",
+  "technologies": [
+   "python",
+   "javascript",
+   "c/c++",
+   "perl",
+   "databases"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Open Robotics",
+  "description": "Development of open source robotics",
+  "technologies": [
+   "ros",
+   "gazebo",
+   "ignition",
+   "Open-RMF"
+  ],
+  "tags": []
+ },
+ {
+  "name": "SCoRe Lab",
+  "description": "SCoRe Lab develops FOSS softwares for everyone!!!",
+  "technologies": [
+   "python",
+   "java",
+   "go",
+   "nodejs",
+   "reactjs"
+  ],
+  "tags": []
+ },
+ {
+  "name": "CNCF",
+  "description": "Building sustainable ecosystems for cloud native",
+  "technologies": [
+   "prometheus",
+   "kubernetes",
+   "OpenTelemetry",
+   "envoy"
+  ],
+  "tags": []
+ },
+ {
+  "name": "libssh",
+  "description": "The SSH library",
+  "technologies": [
+   "c",
+   "ssh"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Apache Software Foundation",
+  "description": "Open source software to the public free of charge",
+  "technologies": [
+   "c",
+   "java",
+   "c++"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Cuneiform Digital Library Initiative (CDLI)",
+  "description": "Curating humanity's oldest written sources",
+  "technologies": [
+   "mysql",
+   "javascript",
+   "docker",
+   "php",
+   "SCSS"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Oppia Foundation",
+  "description": "Free platform for interactive, tutor-like lessons",
+  "technologies": [
+   "python",
+   "android",
+   "google app engine",
+   "angular",
+   "typescript"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Our World In Data",
+  "description": "Explaining the world's biggest problems with data",
+  "technologies": [
+   "python",
+   "mysql",
+   "d3",
+   "typescript",
+   "pandas"
+  ],
+  "tags": []
+ },
+ {
+  "name": "CERN-HSF",
+  "description": "Umbrella for Particle Physics-related projects",
+  "technologies": [
+   "python",
+   "c/c++",
+   "data analysis",
+   "artificial intelligence",
+   "container orchestration"
+  ],
+  "tags": []
+ },
+ {
+  "name": "AOSSIE",
+  "description": "Australian Umbrella Org for Open-Source Projects",
+  "technologies": [
+   "python",
+   "javascript",
+   "machine learning",
+   "scala",
+   "Blockchain"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Wellcome Sanger Tree of Life",
+  "description": "Genome analysis across the whole tree of life",
+  "technologies": [
+   "python",
+   "javascript",
+   "rust",
+   "nextflow"
+  ],
+  "tags": []
+ },
+ {
+  "name": "CHIPS Alliance",
+  "description": "Open source IP, tools & standards for ASIC/FPGA",
+  "technologies": [
+   "fpga",
+   "chisel",
+   "risc-v",
+   "systemverilog",
+   "ASIC"
+  ],
+  "tags": []
+ },
+ {
+  "name": "checkstyle",
+  "description": "Helps to adheres of Java coding standard",
+  "technologies": [
+   "java",
+   "antlr"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Society for Arts and Technology (SAT)",
+  "description": "Create teleimmersive multisensorial experiences.",
+  "technologies": [
+   "python",
+   "javascript",
+   "opengl",
+   "c++",
+   "supercollider"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Jenkins",
+  "description": "Jenkins, build great things at any scale",
+  "technologies": [
+   "javascript",
+   "java",
+   "go",
+   "docker",
+   "kubernetes"
+  ],
+  "tags": []
+ },
+ {
+  "name": "JdeRobot",
+  "description": "Toolkit for developing Robotics applications",
+  "technologies": [
+   "python",
+   "ros",
+   "gazebo",
+   "opencv",
+   "tensorflow"
+  ],
+  "tags": []
+ },
+ {
+  "name": "The Tor Project",
+  "description": "Defend yourself against tracking and surveillance.",
+  "technologies": [
+   "c",
+   "python",
+   "rust"
+  ],
+  "tags": []
+ },
+ {
+  "name": "coreboot",
+  "description": "Fast, secure and flexible BIOS firmware",
+  "technologies": [
+   "c",
+   "assembly",
+   "arm",
+   "x86"
+  ],
+  "tags": []
+ },
+ {
+  "name": "RADAR-base",
+  "description": "Improve people's quality of life using patient generated data",
+  "technologies": [
+   "java",
+   "kotlin",
+   "docker",
+   "angular",
+   "kafka"
+  ],
+  "tags": []
+ },
+ {
+  "name": "IOOS",
+  "description": "Our eyes on the ocean, coasts, and Great Lakes",
+  "technologies": [
+   "python",
+   "ocean science"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Joplin",
+  "description": "The open source note taking application",
+  "technologies": [
+   "javascript",
+   "react",
+   "typescript",
+   "electron",
+   "React-Native"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Genome Assembly and Annotation",
+  "description": "Providing freely accessible genomic data",
+  "technologies": [
+   "python",
+   "mysql",
+   "docker",
+   "pytorch",
+   "nextflow"
+  ],
+  "tags": []
+ },
+ {
+  "name": "LEAP Encryption Access Project",
+  "description": "Privacy should not be a priviledge",
+  "technologies": [
+   "java",
+   "golang",
+   "qt5",
+   "docker",
+   "ansible"
+  ],
+  "tags": []
+ },
+ {
+  "name": "FreeType",
+  "description": "FreeType is a software library to render fonts.",
+  "technologies": [
+   "c",
+   "autotools",
+   "meson"
+  ],
+  "tags": []
+ },
+ {
+  "name": "ReactOS Foundation",
+  "description": "Open your windows to freedom!",
+  "technologies": [
+   "c",
+   "c++",
+   "win32",
+   "nt"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Joomla!",
+  "description": "The flexible platform empowering website creators.",
+  "technologies": [
+   "mysql",
+   "javascript",
+   "html",
+   "php",
+   "css"
+  ],
+  "tags": []
+ },
+ {
+  "name": "The ns-3 Network Simulator Project",
+  "description": "ns-3 is a simulation tool for computer networks.",
+  "technologies": [
+   "python",
+   "django",
+   "c++"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Open3D team",
+  "description": "A Modern Library for 3D Data Processing",
+  "technologies": [
+   "python",
+   "c++",
+   "cuda",
+   "tensorflow",
+   "pytorch"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Learning Equality",
+  "description": "Equity in education to transform lives",
+  "technologies": [
+   "python",
+   "javascript",
+   "django",
+   "vue.js"
+  ],
+  "tags": []
+ },
+ {
+  "name": "The ENIGMA Team",
+  "description": "A free rapid game development environment.",
+  "technologies": [
+   "opengl",
+   "c++",
+   "qt5"
+  ],
+  "tags": []
+ },
+ {
+  "name": "TensorFlow",
+  "description": "TensorFlow is a ML framework for everyone.",
+  "technologies": [
+   "machine learning",
+   "tensorflow",
+   "ai",
+   "Jax",
+   "keras"
+  ],
+  "tags": []
+ },
+ {
+  "name": "MIT App Inventor",
+  "description": "Anyone can build apps with global impact.",
+  "technologies": [
+   "javascript",
+   "java",
+   "gwt"
+  ],
+  "tags": []
+ },
+ {
+  "name": "MoveIt",
+  "description": "Moving robots into the future",
+  "technologies": [
+   "ros",
+   "c++"
+  ],
+  "tags": []
+ },
+ {
+  "name": "GNU Compiler Collection (GCC)",
+  "description": "GNU compilers",
+  "technologies": [
+   "c/c++",
+   "gnu make",
+   "gnu autotools"
+  ],
+  "tags": []
+ },
+ {
+  "name": "RTEMS Project",
+  "description": "A real-time operating system for Earth & Space",
+  "technologies": [
+   "python",
+   "c/c++",
+   "assembly",
+   "posix"
+  ],
+  "tags": []
+ },
+ {
+  "name": "AnkiDroid",
+  "description": "AnkiDroid makes remembering things easy",
+  "technologies": [
+   "android",
+   "java",
+   "rust",
+   "kotlin",
+   "mobile"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Open Genome Informatics",
+  "description": "Open access genomics and bioinformatics projects",
+  "technologies": [
+   "python",
+   "mysql",
+   "react",
+   "r-project",
+   "graph"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Mathesar",
+  "description": "Webapp providing a UX-first interface to databases",
+  "technologies": [
+   "python",
+   "postgresql",
+   "javascript",
+   "django",
+   "svelte"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Sugar Labs",
+  "description": "Learning software for children",
+  "technologies": [
+   "python",
+   "gtk",
+   "typescript",
+   "javascipt"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Open Food Facts",
+  "description": "Better food choices for your health & the planet",
+  "technologies": [
+   "python",
+   "machine learning",
+   "perl",
+   "tensorflow",
+   "flutter"
+  ],
+  "tags": []
+ },
+ {
+  "name": "MZmine",
+  "description": "Open-source software for mass spectrometry",
+  "technologies": [
+   "java",
+   "javafx"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Haskell.org",
+  "description": "Purely functional programming language",
+  "technologies": [
+   "haskell",
+   "ghc"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Global Alliance for Genomics and Health",
+  "description": "We develop genomics tools to benefit human health",
+  "technologies": [
+   "python",
+   "postgresql",
+   "java",
+   "react",
+   "rust"
+  ],
+  "tags": []
+ },
+ {
+  "name": "GNU Image Manipulation Program",
+  "description": "GIMP is a cross-platform image editor",
+  "technologies": [
+   "c",
+   "GEGL"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Wagtail",
+  "description": "The powerful Python CMS for modern websites",
+  "technologies": [
+   "python",
+   "javascript",
+   "django"
+  ],
+  "tags": []
+ },
+ {
+  "name": "TARDIS RT Collaboration",
+  "description": "Exploring supernovae made easy",
+  "technologies": [
+   "python",
+   "numba",
+   "numpy",
+   "jupyter",
+   "pandas"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Internet Health Report",
+  "description": "Monitoring the Internet",
+  "technologies": [
+   "python",
+   "javascript",
+   "apache kafka",
+   "VueJS"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Free and Open Source Silicon Foundation",
+  "description": "Working together for Free and Open Source Silicon",
+  "technologies": [
+   "verilog",
+   "risc-v",
+   "compiler",
+   "web development"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Organic Maps",
+  "description": "Offline maps app for tourists, cyclers & hikers",
+  "technologies": [
+   "android",
+   "java",
+   "c++",
+   "ios",
+   "OpenStreetMap"
+  ],
+  "tags": []
+ },
+ {
+  "name": "The NetBSD Foundation",
+  "description": "Of course it runs NetBSD",
+  "technologies": [
+   "c",
+   "shell script",
+   "make",
+   "unix",
+   "bsd"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Responsible AI and Human Centred Technology",
+  "description": "Human-centered and responsible AI for all",
+  "technologies": [
+   "python",
+   "javascript",
+   "Technical writing"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Blender Foundation",
+  "description": "The Freedom to Create",
+  "technologies": [
+   "c",
+   "python",
+   "opengl",
+   "c++",
+   "vulkan"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Machine Learning for Science (ML4SCI)",
+  "description": "Machine learning applications in science",
+  "technologies": [
+   "python",
+   "machine learning",
+   "c++",
+   "data analysis",
+   "artificial intelligence"
+  ],
+  "tags": []
+ },
+ {
+  "name": "VideoLAN",
+  "description": "Open source believers rocking the multimedia world",
+  "technologies": [
+   "c",
+   "c++",
+   "qt",
+   "assembly",
+   "video"
+  ],
+  "tags": []
+ },
+ {
+  "name": "PostgreSQL",
+  "description": "The Most Advanced Open Source Relational Database",
+  "technologies": [
+   "c",
+   "python",
+   "postgresql",
+   "javascript",
+   "sql"
+  ],
+  "tags": []
+ },
+ {
+  "name": "strace",
+  "description": "Linux syscall tracer",
+  "technologies": [
+   "c",
+   "shell",
+   "make",
+   "autotools",
+   "gawk"
+  ],
+  "tags": []
+ },
+ {
+  "name": "SageMath",
+  "description": "Open-source mathematics software system",
+  "technologies": [
+   "python",
+   "cython"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Jitsi",
+  "description": "State-of-the-art video conferencing",
+  "technologies": [
+   "javascript",
+   "java",
+   "react",
+   "webrtc",
+   "react native"
+  ],
+  "tags": []
+ },
+ {
+  "name": "OpenVINO Toolkit",
+  "description": "Make AI inference faster and easier to deploy!",
+  "technologies": [
+   "python",
+   "c++",
+   "x86"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Ceph",
+  "description": "The Future of Storage",
+  "technologies": [
+   "python",
+   "javascript",
+   "c++"
+  ],
+  "tags": []
+ },
+ {
+  "name": "CircuitVerse.org",
+  "description": "Build and learn logic circuits in the cloud!",
+  "technologies": [
+   "javascript",
+   "rails",
+   "canvas"
+  ],
+  "tags": []
+ },
+ {
+  "name": "JBoss Community",
+  "description": "Community of projects around JBoss Middleware",
+  "technologies": [
+   "java",
+   "rust",
+   "golang"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Kodi",
+  "description": "The ultimate entertainment center",
+  "technologies": [
+   "python",
+   "opengl",
+   "c++",
+   "ffmpeg",
+   "sqlite"
+  ],
+  "tags": []
+ },
+ {
+  "name": "OpenCV",
+  "description": "++ beneficial uses of computer vision in society",
+  "technologies": [
+   "python",
+   "c++",
+   "deep learning",
+   "ai"
+  ],
+  "tags": []
+ },
+ {
+  "name": "FFmpeg",
+  "description": "Record, convert and stream audio & video",
+  "technologies": [
+   "c",
+   "git",
+   "asm"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Flashrom",
+  "description": "Reading, writing, verifying, erasing flash chips",
+  "technologies": [
+   "c",
+   "x86",
+   "bios",
+   "rom",
+   "spi"
+  ],
+  "tags": []
+ },
+ {
+  "name": "XMPP Standards Foundation",
+  "description": "XSF develops an open-standard messaging protocol",
+  "technologies": [
+   "javascript",
+   "java",
+   "go",
+   "vala",
+   "xmpp"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Django Software Foundation",
+  "description": "Web framework for perfectionists with deadlines",
+  "technologies": [
+   "python",
+   "django"
+  ],
+  "tags": []
+ },
+ {
+  "name": "MDAnalysis",
+  "description": "Analysis of molecular simulations data with Python",
+  "technologies": [
+   "python",
+   "cython",
+   "c/c++"
+  ],
+  "tags": []
+ },
+ {
+  "name": "OWASP Foundation",
+  "description": "No more insecure software.",
+  "technologies": [
+   "python",
+   "javascript",
+   "java",
+   "ZAP",
+   "Juice Shop"
+  ],
+  "tags": []
+ },
+ {
+  "name": "AboutCode",
+  "description": "Scan code for origin, license and vulnerabilities",
+  "technologies": [
+   "python",
+   "javascript",
+   "Django+PostgreSQL",
+   "C/Rust/Go"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Haiku",
+  "description": "Operating system that targets personal computing.",
+  "technologies": [
+   "c++",
+   "posix",
+   "unix"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Purr Data",
+  "description": "Realtime Audio/Visual Programming Environment",
+  "technologies": [
+   "c",
+   "javascript",
+   "html5",
+   "Emscripten"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Semi Technologies",
+  "description": "The ML-first vector search engine",
+  "technologies": [
+   "python",
+   "machine learning",
+   "golang",
+   "vectors",
+   "natural language processing"
+  ],
+  "tags": []
+ },
+ {
+  "name": "OSGeo (Open Source Geospatial Foundation)",
+  "description": "The Open Source Geospatial Foundation",
+  "technologies": [
+   "c",
+   "python",
+   "javascript",
+   "java",
+   "c++"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Public Lab",
+  "description": "Tools for communities to measure pollution",
+  "technologies": [
+   "javascript",
+   "ruby on rails"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Swift",
+  "description": "Fast, safe, and expressive programming language",
+  "technologies": [
+   "c++",
+   "cmake",
+   "swift"
+  ],
+  "tags": []
+ },
+ {
+  "name": "XWiki",
+  "description": "The Advanced Open Source Enterprise Wiki",
+  "technologies": [
+   "javascript",
+   "java",
+   "html5",
+   "css3",
+   "velocity"
+  ],
+  "tags": []
+ },
+ {
+  "name": "GitLab",
+  "description": "Everyone can contribute",
+  "technologies": [
+   "javascript",
+   "ruby on rails",
+   "go",
+   "ruby",
+   "vue"
+  ],
+  "tags": []
+ },
+ {
+  "name": "International Catrobat Association",
+  "description": "Free visual coding apps for computational thinking",
+  "technologies": [
+   "javascript",
+   "android",
+   "swift",
+   "kotlin",
+   "php"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Center for Research in Open Source Software (CROSS)",
+  "description": "Amplifying Research Imapct through Open Source",
+  "technologies": [
+   "python",
+   "c/c++",
+   "verilog",
+   "apache arrow",
+   "matlab/simulink"
+  ],
+  "tags": []
+ },
+ {
+  "name": "LLVM Compiler Infrastructure",
+  "description": "LLVM Compiler Infrastructure",
+  "technologies": [
+   "llvm",
+   "c++",
+   "clang",
+   "mlir"
+  ],
+  "tags": []
+ },
+ {
+  "name": "GNU Radio",
+  "description": "The free & open software radio ecosystem",
+  "technologies": [
+   "python",
+   "c++",
+   "qt",
+   "simd"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Metasploit",
+  "description": "World\u2019s most used penetration testing framework",
+  "technologies": [
+   "c",
+   "python",
+   "postgresql",
+   "ruby",
+   "assembly"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Red Hen Lab",
+  "description": "Research on Multimodal Communication",
+  "technologies": [
+   "python",
+   "machine learning",
+   "computer vision",
+   "nlp",
+   "data science"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Mixxx",
+  "description": "DJ Mixing App With Powerful Features For All DJs",
+  "technologies": [
+   "javascript",
+   "c++",
+   "qt"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Jenkins X",
+  "description": "Accelerate Your Continuous Delivery on Kubernetes",
+  "technologies": [
+   "golang",
+   "kubernetes",
+   "gitops"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Homebrew",
+  "description": "The Missing Package Manager for macOS (or Linux)",
+  "technologies": [
+   "linux",
+   "ruby",
+   "macos"
+  ],
+  "tags": []
+ },
+ {
+  "name": "RoboComp",
+  "description": "Open-source framework to develop robot components",
+  "technologies": [
+   "python",
+   "opencv",
+   "c++",
+   "qt",
+   "pytorch"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Processing Foundation",
+  "description": "To empower all people to learn to program",
+  "technologies": [
+   "python",
+   "javascript",
+   "android",
+   "java",
+   "opengl"
+  ],
+  "tags": []
+ },
+ {
+  "name": "rocket.chat",
+  "description": "Open source team chat and communications platform",
+  "technologies": [
+   "javascript",
+   "raspberry pi",
+   "typescript",
+   "node",
+   "meteorJS"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Plone Foundation",
+  "description": "Python-based CMS, with React front-end.",
+  "technologies": [
+   "python",
+   "javascript",
+   "react"
+  ],
+  "tags": []
+ },
+ {
+  "name": "The Linux Foundation",
+  "description": "Non-profit consortium fostering growth of Linux",
+  "technologies": [
+   "c",
+   "linux",
+   "c++",
+   "cups",
+   "ipp"
+  ],
+  "tags": []
+ },
+ {
+  "name": "OpenMRS",
+  "description": "Write Code, Save Lives.",
+  "technologies": [
+   "mysql",
+   "javascript",
+   "java",
+   "fhir",
+   "Cypress"
+  ],
+  "tags": []
+ },
+ {
+  "name": "The JPF team",
+  "description": "JPF is a special JVM for software verification",
+  "technologies": [
+   "android",
+   "java",
+   "distributed systems",
+   "jvm"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Robolectric",
+  "description": "Fast unit testing runtime for Android",
+  "technologies": [
+   "android",
+   "java",
+   "jvm",
+   "asm"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Mayor's Office of New Urban Mechanics",
+  "description": "Exploring new approaches to civic life.",
+  "technologies": [
+   "python",
+   "javascript",
+   "ruby",
+   "tensorflow"
+  ],
+  "tags": []
+ },
+ {
+  "name": "FRRouting",
+  "description": "Routing suite including BGP, IS-IS, LDP, OSPF, PIM",
+  "technologies": [
+   "c",
+   "linux",
+   "networking",
+   "linux kernel",
+   "routing"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Open Bioinformatics Foundation (OBF)",
+  "description": "Open Source & Open Science in biological research",
+  "technologies": [
+   "python",
+   "javascript",
+   "c++",
+   "html/css",
+   "Git/GitHub"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Python Software Foundation",
+  "description": "A programming language used for science & more",
+  "technologies": [
+   "python",
+   "javascript",
+   "sqlite"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Performance Co-Pilot",
+  "description": "System performance analysis",
+  "technologies": [
+   "c",
+   "grafana",
+   "redis",
+   "htop",
+   "sysstat"
+  ],
+  "tags": []
+ },
+ {
+  "name": "The Palisadoes Foundation",
+  "description": "Transforming non-profit organizations in the cloud",
+  "technologies": [
+   "mongodb",
+   "node.js",
+   "flutter",
+   "graphql",
+   "typescript"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Department of Biomedical Informatics, Emory University",
+  "description": "Biomedical research to advance healthcare",
+  "technologies": [
+   "python",
+   "javascript",
+   "java",
+   "workflows",
+   "dicom"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Synfig",
+  "description": "Open-source 2D animation software",
+  "technologies": [
+   "python",
+   "c++",
+   "gtk",
+   "gtkmm"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Fortran-lang",
+  "description": "High-performance parallel programming language",
+  "technologies": [
+   "python",
+   "c++",
+   "fortran"
+  ],
+  "tags": []
+ },
+ {
+  "name": "GNSS-SDR",
+  "description": "An open source GNSS software-defined receiver",
+  "technologies": [
+   "c",
+   "c++",
+   "sdr"
+  ],
+  "tags": []
+ },
+ {
+  "name": "LibreHealth",
+  "description": "Healthcare for Humanity",
+  "technologies": [
+   "python",
+   "javascript",
+   "android",
+   "java",
+   "dart/flutter"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Drupal Association",
+  "description": "The best open source digital experience platform",
+  "technologies": [
+   "mysql",
+   "javascript",
+   "html",
+   "php",
+   "symfony"
+  ],
+  "tags": []
+ },
+ {
+  "name": "GeomScale",
+  "description": "Scalable geometric and statistical software",
+  "technologies": [
+   "python",
+   "c++",
+   "r",
+   "jupyter",
+   "github-actions"
+  ],
+  "tags": []
+ },
+ {
+  "name": "cBioPortal for Cancer Genomics",
+  "description": "Aid discovery in complex cancer genomics data",
+  "technologies": [
+   "mysql",
+   "javascript",
+   "java",
+   "react",
+   "typescript"
+  ],
+  "tags": []
+ },
+ {
+  "name": "INCF",
+  "description": "An open & FAIR neuroscience standards organization",
+  "technologies": [
+   "python",
+   "javascript",
+   "java",
+   "c++",
+   "gpu"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Casbin",
+  "description": "Authorization library that supports RBAC and ABAC",
+  "technologies": [
+   "javascript",
+   "java",
+   "go",
+   "OIDC",
+   "OAuth"
+  ],
+  "tags": []
+ },
+ {
+  "name": "GRAME",
+  "description": "Domain specific language for audio",
+  "technologies": [
+   "c",
+   "python",
+   "javascript",
+   "c++",
+   "typescript"
+  ],
+  "tags": []
+ },
+ {
+  "name": "freifunk",
+  "description": "Free and open wireless networks",
+  "technologies": [
+   "c",
+   "python",
+   "javascript",
+   "openwrt",
+   "gnu/linux"
+  ],
+  "tags": []
+ },
+ {
+  "name": "syslog-ng",
+  "description": "Enhanced log daemon, w/ wide range of I/O methods",
+  "technologies": [
+   "c",
+   "python",
+   "sql",
+   "elasticsearch",
+   "kafka"
+  ],
+  "tags": []
+ },
+ {
+  "name": "The FreeBSD Project",
+  "description": "FreeBSD: An OS for servers to embedded systems",
+  "technologies": [
+   "c",
+   "llvm",
+   "assembly",
+   "make",
+   "POSIX shell"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Godot Engine",
+  "description": "Multi-platform 2D and 3D game engine",
+  "technologies": [
+   "opengl",
+   "c++",
+   "vulkan",
+   "webassembly"
+  ],
+  "tags": []
+ },
+ {
+  "name": "MuseScore",
+  "description": "The World\u2019s Most Popular Music Notation Software",
+  "technologies": [
+   "c++",
+   "qt",
+   "qml",
+   "cmake"
+  ],
+  "tags": []
+ },
+ {
+  "name": "OpenWISP",
+  "description": "The Hackable Network Management System",
+  "technologies": [
+   "python",
+   "javascript",
+   "django",
+   "lua",
+   "openwrt"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Scala Center",
+  "description": "Guide and support the Scala community",
+  "technologies": [
+   "scala",
+   "scala.js",
+   "scala native"
+  ],
+  "tags": []
+ },
+ {
+  "name": "NumFOCUS",
+  "description": "NumFOCUS promotes open source scientific software.",
+  "technologies": [
+   "python",
+   "c++",
+   "r",
+   "julia"
+  ],
+  "tags": []
+ },
+ {
+  "name": "The Mifos Initiative",
+  "description": "End Poverty One Line of Code at a Time",
+  "technologies": [
+   "android",
+   "java",
+   "kotlin",
+   "spring",
+   "angular"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Polypheny",
+  "description": "The distributed and self-adaptive polystore",
+  "technologies": [
+   "javascript",
+   "java",
+   "sql",
+   "angular"
+  ],
+  "tags": []
+ },
+ {
+  "name": "R project for statistical computing",
+  "description": "R software for statistical computing & graphics",
+  "technologies": [
+   "c",
+   "javascript",
+   "c++",
+   "r-project",
+   "fortran"
+  ],
+  "tags": []
+ },
+ {
+  "name": "libcamera",
+  "description": "Provide an open source camera stack for linux",
+  "technologies": [
+   "c/c++",
+   "linux kernel",
+   "qt5",
+   "gstreamer",
+   "v4l2"
+  ],
+  "tags": []
+ },
+ {
+  "name": "LibreOffice",
+  "description": "LibreOffice is a free and open source office suite",
+  "technologies": [
+   "python",
+   "java",
+   "c++"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Zulip",
+  "description": "Modern team chat app designed for efficiency.",
+  "technologies": [
+   "python",
+   "django",
+   "typescript",
+   "react native",
+   "electron"
+  ],
+  "tags": []
+ },
+ {
+  "name": "FOSSology",
+  "description": "Open Source License Compliance by OSS",
+  "technologies": [
+   "python",
+   "postgresql",
+   "c/c++",
+   "php",
+   "reactjs"
+  ],
+  "tags": []
+ },
+ {
+  "name": "SeaQL",
+  "description": "Building data intensive applications in Rust",
+  "technologies": [
+   "mysql",
+   "postgresql",
+   "rust",
+   "sql",
+   "sqlite"
+  ],
+  "tags": []
+ },
+ {
+  "name": "libvirt",
+  "description": "Virtualization abstraction library",
+  "technologies": [
+   "kvm",
+   "hypervisor",
+   "qemu",
+   "lxc"
+  ],
+  "tags": []
+ },
+ {
+  "name": "BeagleBoard.org",
+  "description": "Open hardware computing for educators and makers",
+  "technologies": [
+   "linux",
+   "fpga",
+   "risc-v",
+   "dsp",
+   "Zephyr RTOS"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Kart Project",
+  "description": "Distributed version-control for geospatial data",
+  "technologies": [
+   "python",
+   "c++",
+   "git",
+   "gis"
+  ],
+  "tags": []
+ },
+ {
+  "name": "SPDX",
+  "description": "An open ISO standard for SBOMs",
+  "technologies": [
+   "python",
+   "java",
+   "json",
+   "go",
+   "rdf"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Debian",
+  "description": "The Universal Operating System",
+  "technologies": [
+   "c",
+   "python",
+   "java",
+   "ruby",
+   "perl"
+  ],
+  "tags": []
+ },
+ {
+  "name": "MetaBrainz Foundation Inc",
+  "description": "Open music / book metadata, music recommendations",
+  "technologies": [
+   "python",
+   "react",
+   "perl",
+   "postgres",
+   "spark"
+  ],
+  "tags": []
+ },
+ {
+  "name": "GNOME Foundation",
+  "description": "A diverse and sustainable free software desktop.",
+  "technologies": [
+   "c",
+   "linux",
+   "rust",
+   "gtk",
+   "Flatpak"
+  ],
+  "tags": []
+ },
+ {
+  "name": "CCExtractor Development",
+  "description": "TV, rust, flutter, linux and C.",
+  "technologies": [
+   "c",
+   "linux",
+   "rust",
+   "flutter"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Open Chemistry",
+  "description": "Advancing Open Source & Open Science for Chemistry",
+  "technologies": [
+   "python",
+   "javascript",
+   "opengl",
+   "c++",
+   "c++14"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Wikimedia Foundation",
+  "description": "Brings free educational content to the world",
+  "technologies": [
+   "python",
+   "javascript",
+   "html",
+   "php",
+   "css"
+  ],
+  "tags": []
+ },
+ {
+  "name": "Gentoo Foundation",
+  "description": "A flexible, source-based Linux distribution.",
+  "technologies": [
+   "c",
+   "python",
+   "shell",
+   "linux",
+   "bash"
+  ],
+  "tags": []
+ },
+ {
+  "name": "openSUSE Project",
+  "description": "openSUSE is the makers' choice for sysadmins, developers and desktop",
+  "technologies": [
+   "python",
+   "linux",
+   "rust",
+   "Testing",
+   "configuration management"
+  ],
+  "tags": []
+ }
+]
