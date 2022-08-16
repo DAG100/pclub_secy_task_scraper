@@ -2,4 +2,8 @@ Deven Gangwani, 210327
 
 Overview of making the scraper:
 -language used: python
--modules/programs/etc. used: selenium, html
+-modules/programs/etc. used: selenium + geckodriver (webdriver for firefox), time, json
+
+Issues:
+-slower connections may have problems because times were manually set - just change all 5s to 10s in that case (should do the job)
+-haven't added tags yet
